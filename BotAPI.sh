@@ -15,7 +15,7 @@ readonly -A _SHELLBOT_=(
 [language]='shell'
 [shell]=${SHELL}
 [shell_version]=${BASH_VERSION}
-[author]='Ryz Store'
+[author]='ryzXcode'
 [email]='ryjprjkt@gmail.com'
 [wiki]=''
 [github]=''
@@ -5853,4 +5853,3 @@ readonly -f MessageError 		\
 			CheckArgType 		\
 			CreateLog			\
 			FlagConv
-
